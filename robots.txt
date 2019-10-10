@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://uulaejiva.osteel.me/sitemap.xml
